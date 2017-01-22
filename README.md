@@ -9,6 +9,12 @@
 
 の各データをExcel等で開くことのできるCSV形式に書き出したものになります。
 
+# Download
+
+https://github.com/taiyoslime-sandbox/toho_vote13_csv/archive/master.zip
+
+若しくは右上の緑色のボタンである`Clone or Download` から `Download ZIP`を選択してもできます。
+
 # License
 
 [第13回 東方プロジェクト 人気投票 公式ページ](http://toho-vote.info)より
